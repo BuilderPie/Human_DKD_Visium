@@ -5,5 +5,7 @@
 This repo includes the R, Julia, and Python scripts we wrote for the main and supplemental figures. 
 
 For each figure, it usually contains two parts: 
-- 1) Seurat analysis in R / Scanpy analysis in Python
-- 2) CellScopes visualization in Julia
+- Seurat analysis in R / Scanpy analysis in Python
+- CellScopes visualization in Julia
+
+Please find more information about [CellScopes](https://github.com/HaojiaWu/CellScopes.jl) here: https://github.com/HaojiaWu/CellScopes.jl
