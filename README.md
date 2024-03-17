@@ -3,9 +3,9 @@
 ## Histopathological-based analysis of spatial transcriptomics data on human kidney sample: toward precision pathology
 
 Contributor:
-- Pierre Isnard
-- Haojia Wu
-- Dian Li
+- [Pierre Isnard](https://www.researchgate.net/profile/Pierre-Isnard)
+- [Haojia Wu](https://github.com/HaojiaWu)
+- [Dian Li](https://github.com/BuilderPie)
 
 This repo includes the R, Julia, and Python scripts we wrote for the main and supplemental figures. 
 
