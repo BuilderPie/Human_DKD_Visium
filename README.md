@@ -1,11 +1,13 @@
 # Human_DKD_Visium
 
-## Histopathological-based analysis of spatial transcriptomics data on human kidney sample: toward precision pathology
+## Histopathological-based analysis of human kidney spatial transcriptomics data: toward precision pathology
 
 Contributor:
 - [Pierre Isnard](https://www.researchgate.net/profile/Pierre-Isnard)
 - [Haojia Wu](https://github.com/HaojiaWu)
 - [Dian Li](https://github.com/BuilderPie)
+
+GEO Access: [GSE261545](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE261545)
 
 This repo includes the R, Julia, and Python scripts we wrote for the main and supplemental figures. 
 
