@@ -2,6 +2,8 @@
 
 ## Histopathological-based analysis of human kidney spatial transcriptomics data: toward precision pathology
 
+Article can be found at: [https://doi.org/10.1016/j.ajpath.2024.06.011](https://doi.org/10.1016/j.ajpath.2024.06.011)
+
 Contributor:
 - [Pierre Isnard](https://www.researchgate.net/profile/Pierre-Isnard)
 - [Haojia Wu](https://github.com/HaojiaWu)
